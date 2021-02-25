@@ -1,2 +1,2 @@
-# LearningML
-ENEL 525 - Machine Learning Final Project
+# ENEL 525 - Final Project
+Winter 2020
